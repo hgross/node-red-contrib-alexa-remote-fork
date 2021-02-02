@@ -5,7 +5,7 @@ The reason of this fork is solely my impatience at the time.
 Don't expect any further maintenance ;-) 
 ```
 
-[![npm](https://img.shields.io/npm/v/node-red-contrib-alexa-remote2.svg)](https://www.npmjs.com/package/node-red-contrib-alexa-remote2) [![downloads](https://img.shields.io/npm/dt/node-red-contrib-alexa-remote2.svg)](https://www.npmjs.com/package/node-red-contrib-alexa-remote2)
+[![npm](https://img.shields.io/npm/v/node-red-contrib-alexa-remote-fork.svg)](https://www.npmjs.com/package/node-red-contrib-alexa-remote-fork) [![downloads](https://img.shields.io/npm/dt/node-red-contrib-alexa-remote-fork.svg)](https://www.npmjs.com/package/node-red-contrib-alexa-remote-fork)
 
 This is a collection of Node-RED nodes for interacting with the Alexa API.
 You can emulate routine behaviour, control and query your devices and much more!
