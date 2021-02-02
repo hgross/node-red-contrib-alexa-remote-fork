@@ -1,4 +1,9 @@
-# node-red-contrib-alexa-remote2
+# node-red-contrib-alexa-remote-fork (is a fork of) node-red-contrib-alexa-remote2
+```
+This is a fork of https://github.com/586837r/node-red-contrib-alexa-remote2 which fixes some issues I had.
+The reason of this fork is solely my impatience at the time.
+Don't expect any further maintenance ;-) 
+```
 
 [![npm](https://img.shields.io/npm/v/node-red-contrib-alexa-remote2.svg)](https://www.npmjs.com/package/node-red-contrib-alexa-remote2) [![downloads](https://img.shields.io/npm/dt/node-red-contrib-alexa-remote2.svg)](https://www.npmjs.com/package/node-red-contrib-alexa-remote2)
 
@@ -43,3 +48,18 @@ These are few community guides that can help you install the plugin/module. If y
 - [Alexa TTS using Node-RED – How-To (2020)](https://peyanski.com/alexa-tts-how-to/)
 - [Node Red Alexa Remote2](https://tech.scargill.net/node-red-alexa-remote2/)
 
+
+### Development with Docker
+To quickly get your changes into a local and isolated NodeRED instance, you might find the following workflow useful
+
+
+```
+# Start up a docker container with the current code-base installed
+$ npm run-script develop
+# test it manually in the browser (http://localhost:1880)
+
+# clean everything
+$ npm run-script clean-docker
+
+# repeat ..
+```
