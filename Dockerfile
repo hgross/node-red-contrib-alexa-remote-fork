@@ -1,1 +1,1 @@
-FROM nodered/node-red:1.2.7-12
+FROM nodered/node-red:1.3.2-12
