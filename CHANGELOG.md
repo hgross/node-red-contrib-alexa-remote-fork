@@ -1,3 +1,5 @@
+- **3.11.3**
+  - update dependency alexa-remote2 to 3.7.2
 - **3.11.1**
   - update dependency alexa-remote2 to 3.7.1
 - **3.11.0**
