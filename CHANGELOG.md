@@ -1,3 +1,5 @@
+- **3.12.0**
+  - update dependency alexa-remote2 to 3.8.1; fixes cookie renewal
 - **3.11.3**
   - update dependency alexa-remote2 to 3.7.2
 - **3.11.1**
